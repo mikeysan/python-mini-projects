@@ -7,3 +7,6 @@
 3) you have to run 'csv quotes game.py' to play this game
 
 4) if you want to expand this project you can store data into database instead of csv or you can make a gui for this
+
+project by
+[Ankush Singh Gandhi](https://www.github.com/ankushsinghgandhi)
